@@ -6,13 +6,6 @@ Welcome to the "PlantGPT" Project Presentation - Revolutionizing Medical Plant I
 
 💡Project Objectives:💡Ensure Accurate Identification of Medicinal Plants Provide Real-time Results for Quick Authentication Offer a User-Friendly Interface for Widespread Adoption
 
-🙎 Meet Our Team: 🙎‍♀️ Lead by Aditya Bhadra, our passionate team includes:
-•   Aagnik Bose
-•   Ayanika Sikdar
-•   Arka Sarkar
-•   Debdutta Rudra
-•   Ayan Kumar Day
-
 🔍How It Works:🔍 PlantGPT utilizes advanced image processing and deep learning algorithms to analyze images of medical plants and raw materials, delivering precise identifications.
 
 🌟Benefits:🌟
